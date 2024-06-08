@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ediPage_color">#F7EEDD</color>
+    <color name="ediIMT_color">#201658</color>
+    <color name="blue_300">#008DDA</color>
+    <color name="blue_500">#41C9E2</color>
+    <color name="blue_600">#FF3700B3</color>
+    <color name="blue_200">#98ABEE</color>
+    <color name="blue_700">#201658</color>
+    <color name="black">#FF000000</color>
+    <color name="light_blue">#FFFFFF</color>
+    <color name="ediText_color">#ACE2E1</color>
+    <color name="button_color">#0C359E</color>
+</resources>
